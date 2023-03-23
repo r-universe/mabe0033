@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MSCMT"]
+	path = MSCMT
+	url = https://github.com/cran/MSCMT
+	shallow = true
+	registered = true
+[submodule "PearsonDS"]
+	path = PearsonDS
+	url = https://github.com/cran/PearsonDS
+	shallow = true
+	registered = true
+[submodule "SimEUCartelLaw"]
+	path = SimEUCartelLaw
+	url = https://github.com/cran/SimEUCartelLaw
+	shallow = true
+	registered = true
